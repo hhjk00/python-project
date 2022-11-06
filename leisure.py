@@ -8,7 +8,7 @@ import matplotlib
 
 root=Tk()
 root.geometry("800x640")
-root.title('Holiday')
+root.title('Leisure')
 root.resizable(False, False)
 
 matplotlib.rcParams['font.family'] = 'Malgun Gothic'
@@ -106,3 +106,4 @@ Button(
 ).pack()
 
 root.mainloop()
+
