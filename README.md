@@ -11,7 +11,7 @@
 <br>
 
 # 📝 데이터 분석
-Google Colab을 활용하여 데이터를 분석하고 python에 적용시켰습니다.
+Google Colab을 활용하여 데이터를 분석하고 프로젝트에 적용시켰습니다.
 ## 공휴일 데이터
 ```py
 import requests
