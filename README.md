@@ -1,6 +1,8 @@
 # 🏖️ Next Holiday
 > Python을 활용하여 공휴일 데이터와 휴일 여가 활용 방법 데이터를 분석한 데이터를 시각화하여 GUI로 표현했습니다.
 
+- 개발 기간 : 2022.10.27 ~ 2022.11.06
+
 ### 데이터 출처
 - 한국천문연구원_특일 정보 : https://www.data.go.kr/data/15012690/openapi.do
 - 주말·휴일의 여가활용 방법  : https://gsis.kwdi.re.kr/statHtml/statHtml.do?orgId=338&tblId=DT_1LHB021#
